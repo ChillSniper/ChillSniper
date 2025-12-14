@@ -6,7 +6,7 @@ on:
   schedule:
     # 每天 UTC 时间 00:00 运行
     # 如果您在东八区 (UTC+8)，这大约是早上 8:00
-    - cron: '42 23 * * *' 
+    - cron: '0 0 * * *' 
   # 允许手动在 GitHub Actions 页面触发运行
   workflow_dispatch:
 
