@@ -1,0 +1,32 @@
+# 文件名: .github/workflows/wakatime.yml
+name: WakaTime Readme Update
+
+on:
+  # 配置此 Action 每天在指定时间运行一次
+  schedule:
+    # 每天 UTC 时间 00:00 运行
+    # 如果您在东八区 (UTC+8)，这大约是早上 8:00
+    - cron: '0 0 * * *' 
+  # 允许手动在 GitHub Actions 页面触发运行
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: athul/waka-readme@master # 使用 WakaTime Readme Action
+        with:
+          # 引用您在步骤 2 中设置的 Secret
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
+          
+          # 可选参数 (根据您的需求配置)
+          COMMIT_MESSAGE: "chore: Update WakaTime stats" # 自动提交时使用的信息
+          SHOW_OS: "True"             # 是否显示操作系统
+          SHOW_PROJECTS: "False"      # 是否显示项目统计 (通常个人资料页不显示)
+          SHOW_TIME_IN_SECONDS: "False" # 是否显示秒数
+          LANG_NUM: "5" # 显示前5中语言
+          SHOW_UPDATED_DATE: "True"   # 显示上次更新时间
+          TIME_RANGE: "last_7_days"   # 统计过去 7 天的数据
+          # 其他参数请参考 Action 文档

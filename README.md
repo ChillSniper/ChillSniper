@@ -1,16 +1,13 @@
-## Hi there 👋
+#
 
-<!--
-**ChillSniper/ChillSniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Information Of HerbertLu
 
-Here are some ideas to get you started:
+### 📊 我的 GitHub 统计
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![ChillSniper 的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=ChillSniper&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📌 个人技术概览
+
+[![WakaTime 总时长](https://img.shields.io/endpoint?url=https://wakatime.com/badge/user/ChillSniper/total-time-logged-long-format.json)](https://wakatime.com/@ChillSniper)
+
+### 📈 我的近一周编码活动（WakaTime）
