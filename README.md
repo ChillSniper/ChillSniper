@@ -106,5 +106,5 @@ Assembly                 1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ---
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ChillSniper/ChillSniper/main/assets/HomeTown.jpg" width="720px" alt="">
+    <img src="https://raw.githubusercontent.com/ChillSniper/ChillSniper/main/assert/HomeTown.jpg" width="720px" alt="我的故乡">
 </div>
