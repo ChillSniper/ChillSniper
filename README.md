@@ -12,5 +12,5 @@
 
 ### 📈 我的近一周编码活动（WakaTime）
 
-START_SECTION:waka
-END_SECTION:waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
