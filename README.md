@@ -26,10 +26,8 @@
 
 ### 📊 我的 GitHub 统计
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/ChillSniper?base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&config.timezone=Asia%2FShanghai" width="400" />
-  
-  <img src="https://metrics.lecoq.io/ChillSniper?base=0&languages=1&languages.limit=8&languages.sections=most-used&config.timezone=Asia%2FShanghai" width="400" />
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChillSniper&theme=vue"/>
 </div>
 
 ### 📈 我的编码活动（WakaTime）
