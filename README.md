@@ -27,11 +27,9 @@
 ### 📊 我的 GitHub 统计
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChillSniper&show_icons=true&theme=vue">
-  </a><a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChillSniper&layout=compact&langs_count=10&theme=vue">
-  </a>
+  <img src="https://metrics.lecoq.io/ChillSniper?base=header%2C%20activity%2C%20community%2C%20repositories&base.indepth=false&config.timezone=Asia%2FShanghai" width="400" />
+  
+  <img src="https://metrics.lecoq.io/ChillSniper?base=0&languages=1&languages.limit=8&languages.sections=most-used&config.timezone=Asia%2FShanghai" width="400" />
 </div>
 
 ### 📈 我的编码活动（WakaTime）
