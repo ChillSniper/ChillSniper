@@ -27,4 +27,7 @@ jobs:
           SHOW_EDITORS: "True" # 编辑器
           SHOW_LANGUAGE_PER_REPO: "False" #  
           SYMBOL_VERSION: "2" # 设置为进度条的符
-          IGNORED_LANGUAGES: "Other" # 忽略掉的语言
+          SHOW_TIMEZONE: "True" # 显示时区
+          SHOW_UPDATED_DATE: "True" # 显示最后更新时间
+          UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
+          
