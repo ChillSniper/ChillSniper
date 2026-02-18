@@ -8,9 +8,17 @@
 
 2026.01.04 - 至今 北京-途游游戏 Golang 后端开发实习生
 
-你好！我是陆学诚，网名**远航**，英文名是 **Herbert Lu**。故乡江苏南通，高中毕业于江苏省海门中学。自2025年暑假起，我开始系统性的学习 Java 后端开发，目前正在学习 Kafka消息队列 / 分布式系统 / Golang 技术栈。
+你好！我是陆学诚，网名**远航**，英文名是 **Herbert Lu**。故乡江苏南通，高中毕业于江苏省海门中学。自2025年暑假起，我开始系统性的学习 Java 后端开发，目前正在学习：
 
-意向2027届本科毕业就业，专注于后端开发方向。欢迎各位朋友/前辈一起交流学习心得和技术实践！
+- Kafka消息队列
+- 分布式系统
+- Golang 技术栈。
+
+意向于2027届本科毕业后工作，向后端开发方向作深入的学习和研究。欢迎各位朋友和前辈们一起交流学习心得，探讨技术实践！
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ChillSniper/ChillSniper/main/assert/Myself.jpg" width="720px" alt="The photo of Herbert">
+</div>
 
 ### Tech-Stacks & Tools
 
