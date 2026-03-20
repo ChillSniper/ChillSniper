@@ -34,13 +34,16 @@
 
 ![ ](https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,matlab,githubactions,windows,linux,github)
 
-### 📊 我的 GitHub 统计
+### My GitHub statistics
 
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChillSniper&theme=vue"/>
 </div>
 
-### 📈 我的编码活动（WakaTime）
+### My coding activities
+
+<p>CodeTime Since 2025.12.15</p>
+<img align="center" width="90%" src="https://wakatime.com/share/@ChillSniper/98fde1c5-0c40-49d3-9548-ed34cf56eb7b.svg"></img>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs-blue?style=flat)
