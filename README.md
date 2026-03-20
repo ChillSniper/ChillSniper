@@ -32,7 +32,7 @@
 
 #### Development tools & Environment
 
-![ ](https://skillicons.dev/icons?i=vscode,goland,idea,pycharm,clion,matlab,githubactions,windows,linux,github)
+![ ](https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,matlab,githubactions,windows,linux,github)
 
 ### My GitHub statistics
 
@@ -42,9 +42,8 @@
 
 ### My coding activities
 
-<details open><summary>CodeTime Since 2025.12.15</summary>
+<p>CodeTime Since 2025.12.15</p>
 <img align="center" width="90%" src="https://wakatime.com/share/@ChillSniper/98fde1c5-0c40-49d3-9548-ed34cf56eb7b.svg"></img>
-</details>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs-blue?style=flat)
