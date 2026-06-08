@@ -47,7 +47,7 @@
 <img align="center" width="90%" src="https://wakatime.com/share/@ChillSniper/98fde1c5-0c40-49d3-9548-ed34cf56eb7b.svg"></img>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-587%20hrs%2018%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -90,7 +90,7 @@ Mac                      15 hrs 26 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 2026-06-07 04:07:08 UTC
+ Last Updated on 2026-06-08 04:11:20 UTC
 <!--END_SECTION:waka-->
 
 ---
