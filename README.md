@@ -46,7 +46,7 @@ Hello, I am Herbert Lu.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-198%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-198%20hrs%2023%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,42 +75,42 @@ Sunday                   207 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 11 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.00 % 
-Markdown                 54 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.60 % 
-C++                      36 mins             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.40 % 
+Other                    1 hr 21 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.58 % 
+Markdown                 46 mins             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.42 % 
+C++                      36 mins             ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.00 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 37 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   59.90 % 
-VS Code                  1 hr 5 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.10 % 
+Codex Vscode             1 hr 44 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   63.23 % 
+VS Code                  1 hr                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.77 % 
 
 💻 Operating System: 
-Windows                  2 hrs 42 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  2 hrs 45 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 46 mins (65.59%)
+⏱ AI Coding Time: 1 hr 47 mins (65.24%)
 
-✍️ 113 lines written by AI, 1,466 lines written by hand (7.16% AI-written)
+✍️ 113 lines written by AI, 1,507 lines written by hand (6.98% AI-written)
 
-🔤 1,111,921 Input Tokens, 91,685 Output Tokens
+🔤 963,818 Input Tokens, 86,254 Output Tokens
 
-💵 $10.21 Estimated AI Cost This Week
+💵 $7.49 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 29 AI Prompts
+🧠 30 AI Sessions, 43 AI Prompts
 
 GPT                      113 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.16% of written lines came from AI
-📝 Concise Prompter — average 286 characters per prompt
+🧑‍💻 Mostly Hands-On — 6.98% of written lines came from AI
+📝 Concise Prompter — average 229 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 93.41% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-08-31 04:16:01 UTC
+ Last Updated on 2026-09-01 04:02:21 UTC
 <!--END_SECTION:waka-->
 
 ---
