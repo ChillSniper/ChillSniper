@@ -44,9 +44,9 @@ Hello, I am Herbert Lu.
 <img align="center" width="90%" src="https://wakatime.com/share/@ChillSniper/98fde1c5-0c40-49d3-9548-ed34cf56eb7b.svg"></img>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2055%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -75,44 +75,44 @@ Sunday                   207 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.38 % 
-Other                    2 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.52 % 
-Python                   1 hr 3 mins         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.70 % 
-JavaScript               7 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.23 % 
+Markdown                 2 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.44 % 
+Other                    2 hrs 3 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.33 % 
+Python                   1 hr 2 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.91 % 
+JavaScript               7 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.16 % 
 Bash                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.17 % 
 
 🔥 Editors: 
-VS Code                  4 hrs               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   71.05 % 
-Codex Vscode             1 hr 38 mins        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.95 % 
+VS Code                  4 hrs 11 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   71.94 % 
+Codex Vscode             1 hr 38 mins        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.06 % 
 
 💻 Operating System: 
-Windows                  5 hrs 38 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  5 hrs 49 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 14 mins (75.04%)
+⏱ AI Coding Time: 4 hrs 24 mins (75.79%)
 
-✍️ 4,631 lines written by AI, 69 lines written by hand (98.53% AI-written)
+✍️ 3,087 lines written by AI, 68 lines written by hand (97.84% AI-written)
 
-🔤 2,318,442 Input Tokens, 293,313 Output Tokens
+🔤 2,195,776 Input Tokens, 247,949 Output Tokens
 
-💵 $21.30 Estimated AI Cost This Week
+💵 $20.36 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 50 AI Prompts
+🧠 27 AI Sessions, 52 AI Prompts
 
-GPT                      4,632 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+GPT                      3,087 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.53% of written lines came from AI
-📚 Verbose Prompter — average 1,684 characters per prompt
+🤖 AI-Driven — 97.84% of written lines came from AI
+📄 Detailed Prompter — average 1,478 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.53% of changed lines were hand-edited
+🚀 High AI Trust — 2.22% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-10-30 04:49:10 UTC
+ Last Updated on 2026-10-31 04:33:00 UTC
 <!--END_SECTION:waka-->
 
 ---
