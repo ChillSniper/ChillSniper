@@ -2,18 +2,20 @@
 
 ## Herbert Lu's profile
 
-### personal Information
+### Personal Information
 
-2023.09 - 2027.06 吉林大学 计算机科学与技术学院 本科
+Hello, I'm Herbert Lu.
 
-2026.01.04 - 2026.03.20 北京 途游游戏-平台中心 Golang-后端开发实习生
+From Nantong, Jiangsu, China, I am currently a server-side (backend) development engineer specializing in search, advertising, and recommendation systems.
 
-2026.04.22 - 2026.08.14 北京 字节跳动-国际支付 Golang-后端研发实习生
+2023.09 – 2027.06
+**Jilin University**, College of Computer Science and Technology, Bachelor's Degree
 
-Hello, I am Herbert Lu.
+2026.01 – 2026.03
+Beijing · **Tuyoo Games**, Platform Center-Backend R&D Intern
 
-故乡江苏南通，高中毕业于江苏省海门中学。自2025年暑假起，我开始系统性的学习 Java/Golang 后端开发，目前正在学习分布式系统和金融支付领域的业务知识。意向于2027届本科毕业后工作，在金融支付相关的研发领域作深入的学习。
-
+2026.04 – 2026.08
+Beijing · **ByteDance**, Global Payment - Risk Control And Security Platform - Backend R&D Intern
 <!-- <div align="center">
     <img src="https://raw.githubusercontent.com/ChillSniper/ChillSniper/main/assert/Myself.jpg" width="720px" alt="The photo of Herbert">
 </div> -->
@@ -22,15 +24,15 @@ Hello, I am Herbert Lu.
 
 #### Programming Languages
 
-![ ](https://skillicons.dev/icons?i=java,go,python,markdown,html,lua,css,javascript)
+![ ](https://skillicons.dev/icons?i=java,go,cpp)
 
 #### Toolchains & Frameworks
 
-![ ](https://skillicons.dev/icons?i=spring,mysql,redis,kafka,rabbitmq,git,nodejs,npm,nginx,docker)
+![ ](https://skillicons.dev/icons?i=spring,mysql,redis,kafka,git,nginx,docker)
 
 #### Development tools & Environment
 
-![ ](https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,matlab,githubactions,windows,linux,github)
+![ ](https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,githubactions,windows,linux,github)
 
 ### My GitHub statistics
 
