@@ -6,13 +6,13 @@
 
 Hello, I'm Herbert Lu.
 
-From Nantong, Jiangsu, China, I am currently a server-side (backend) development engineer specializing in search, advertising, and recommendation systems.
+From Nantong, Jiangsu, China, I am currently a server-side (backend) development engineer specializing in search and recommendation systems.
 
 2023.09 – 2027.06
 **Jilin University**, College of Computer Science and Technology, Bachelor's Degree
 
 2026.01 – 2026.03
-Beijing · **Tuyoo Games**, Platform Center-Backend R&D Intern
+Beijing · **Tuyoo Games**, Platform Center - Backend R&D Intern
 
 2026.04 – 2026.08
 Beijing · **ByteDance**, Global Payment - Risk Control And Security Platform - Backend R&D Intern
@@ -33,12 +33,6 @@ Beijing · **ByteDance**, Global Payment - Risk Control And Security Platform - 
 #### Development tools & Environment
 
 ![ ](https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,githubactions,windows,linux,github)
-
-### My GitHub statistics
-
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChillSniper&theme=vue"/>
-</div>
 
 ### My coding activities
 
